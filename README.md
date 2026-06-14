@@ -1,7 +1,5 @@
 # HOUSE PRICE PREDICTION USING MACHINE LEARNING
 
-## QSkill AI & Machine Learning Internship
-
 ### Submitted By
 
 **Kandhi Charan Yadav**
